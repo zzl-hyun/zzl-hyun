@@ -124,11 +124,16 @@ flowchart LR
   <img src="https://img.shields.io/badge/GMG-24_commits-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="GMG 24 commits" />
 </div>
 
-### Isometric year · Languages activity
+### Languages activity
 
 <div align="center">
-  <img width="49%" src="./assets/metrics-isocalendar.svg" alt="Full-year isometric commit calendar" />
-  <img width="49%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
+  <img width="90%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
+</div>
+
+### Isometric contribution calendar
+
+<div align="center">
+  <img width="90%" src="./assets/metrics-isocalendar.svg" alt="Full-year isometric commit calendar" />
 </div>
 
 <div align="center">
