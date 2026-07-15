@@ -36,6 +36,11 @@
 - **C / C++**: [24-1-Operating-System](https://github.com/zzl-hyun/24-1-Operating-System), [TaskbarSpeedControl](https://github.com/zzl-hyun/TaskbarSpeedControl)
 - **C# 데스크톱 유틸리티**: [TaskbarMusicWidget](https://github.com/zzl-hyun/TaskbarMusicWidget)
 
+### 주요 프로젝트
+- **Capstone Project**
+- **umc-gamecast**
+- **gmg**
+
 ## 핵심 기술
 ![Java](https://img.shields.io/badge/Java-4%20repos-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3%20repos-3776AB?style=flat-square&logo=python&logoColor=white)
