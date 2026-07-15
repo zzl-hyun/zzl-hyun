@@ -42,12 +42,23 @@
 - **gmg**
 
 ## 핵심 기술
-![Java](https://img.shields.io/badge/Java-4%20repos-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3%20repos-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-React-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-Windows%20Utility-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-Desktop%20Widget-512BD4?style=flat-square&logo=csharp&logoColor=white)
+| 영역 | 기술 |
+| --- | --- |
+| Backend | Java, Spring, Node.js, Express |
+| Frontend | TypeScript, React, HTML/CSS/JavaScript |
+| AI · Data | Python, Machine Learning, Audio Detection |
+| System / Native | C, C++, C# |
+
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+</div>
 
 ## 현재 집중 분야
 - 읽기 쉬운 코드와 명확한 책임 분리
