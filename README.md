@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=230&section=header&text=KIHYEON&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20ENGINEER%20%C2%B7%20SYSTEM%20BUILDER&descAlignY=57&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Complexity+in%2C+simplicity+out.;AI+pipelines+%C2%B7+Real-time+systems+%C2%B7+Backend+architecture;%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EB%84%98%EC%96%B4%2C+%EC%9A%B4%EC%98%81%EB%90%98%EB%8A%94+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=If+I+find+myself+doing+it+twice%2C+I+automate+it.;Built+for+myself.+Shared+for+everyone.;Turning+ideas+into+systems.;I+build+things+I+wish+already+existed.;Built+for+myself.+Shared+for+everyone.;Turning+ideas+into+systems.;If+it%27s+repetitive%2C+I+automate+it.;Built+for+myself.+Shared+for+everyone.;Backend+%C2%B7+AI+%C2%B7+Automation.)](https://git.io/typing-svg)
+
 
 <a href="https://github.com/zzl-hyun?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="repositories" /></a>
 <a href="mailto:kimgihyun877@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
@@ -14,14 +15,9 @@
 ## `> whoami`
 
 ```text
-현실의 복잡한 문제를 명확한 도메인과 안정적인 API로 바꿉니다.
 AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
-서비스의 흐름 전체를 이해하고 끝까지 구현하는 백엔드 개발자입니다.
+서비스의 흐름 전체를 이해하고 끝까지 구현하는 개발자입니다.
 ```
-
-- **Product-minded** — 기능의 개수보다 사용자의 병목을 먼저 찾습니다.
-- **Architecture-aware** — 책임, 경계, 실패 지점을 설계에 드러냅니다.
-- **Production-ready** — 비동기 처리, 실시간 갱신, 배포와 운영까지 고민합니다.
 
 ## Featured builds
 
@@ -89,11 +85,11 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 
 <sub>생활 속 작은 불편을 그냥 지나치지 않고 직접 도구로 해결합니다.</sub>
 
-| Project | What it does | Built with | How I built it |
+| Project | What it does | Built with | Why |
 |---|---|---|---|
-| [🧾 Automatic Settlement](https://github.com/zzl-hyun/Automatic-settlement) | 참여자별 N빵 적용 후 최종 송금 내역을 계산하는 가계부 | `Vanilla JS` `localStorage` | 퍼듀에서 생활하며 나한테 필요한 가계부가 필요해서 만든 가계부 |
+| [🧾 Automatic Settlement](https://github.com/zzl-hyun/Automatic-settlement) | 참여자별 N빵 적용 후 최종 송금 내역을 계산하는 가계부 | `Vanilla JS` `localStorage` | Purdue에서 친구들이랑 정산할 일이 많아서 만듦                |
 | [🎵 Taskbar Music Widget](https://github.com/zzl-hyun/TaskbarMusicWidget) | Windows 작업표시줄에서 재생 제어·곡 정보·앱별 음량을 다루는 미니 위젯 | `.NET 8` `WPF` `NAudio` | 크롬 유튜부뮤직 탭 찾느라 한 세월 걸려서 만든 위젯 |
-| [⚡ Taskbar Speed Control](https://github.com/zzl-hyun/TaskbarSpeedControl) | 작업표시줄 자동 숨김 속도와 프레임을 네이티브 훅으로 제어하는 유틸리티 | `C#` `C++` `WinAPI` | Mac에선 Dock 속도 조절 할 수 있는데 Windows라곤 못 할까? 해서 만든 프로그램 |
+| [⚡ Taskbar Speed Control](https://github.com/zzl-hyun/TaskbarSpeedControl) | 작업표시줄 자동 숨김 속도와 프레임을 네이티브 훅으로 제어하는 유틸리티 | `C#` `C++` `WinAPI` | Mac에선 Dock 자동 숨김 속도 조절 할 수 있는데 Windows라곤 못 할까? 해서 만듦 |
 
 ## Engineering toolbox
 
