@@ -89,7 +89,7 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 
 <sub>생활 속 작은 불편을 그냥 지나치지 않고 직접 도구로 해결합니다.</sub>
 
-| Project | What it does | Built with | Why Build |
+| Project | What it does | Built with | How I built it |
 |---|---|---|---|
 | [🧾 Automatic Settlement](https://github.com/zzl-hyun/Automatic-settlement) | 참여자별 N빵 적용 후 최종 송금 내역을 계산하는 가계부 | `Vanilla JS` `localStorage` | 퍼듀에서 생활하며 나한테 필요한 가계부가 필요해서 만든 가계부 |
 | [🎵 Taskbar Music Widget](https://github.com/zzl-hyun/TaskbarMusicWidget) | Windows 작업표시줄에서 재생 제어·곡 정보·앱별 음량을 다루는 미니 위젯 | `.NET 8` `WPF` `NAudio` | 크롬 유튜부뮤직 탭 찾느라 한 세월 걸려서 만든 위젯 |
