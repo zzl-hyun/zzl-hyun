@@ -37,9 +37,13 @@
 - **C# 데스크톱 유틸리티**: [TaskbarMusicWidget](https://github.com/zzl-hyun/TaskbarMusicWidget)
 
 ### 주요 프로젝트
-- **Capstone Project**
-- **umc-gamecast**
-- **gmg**
+- **Capstone · Paper Summarizer**
+  - [paper-summarizer-backend](https://github.com/joomidang/paper-summarizer-backend)
+  - [paper-summarizer-summry-worker](https://github.com/joomidang/paper-summarizer-summry-worker)
+- **UMC GameCast**
+  - [gamecast-server](https://github.com/UMC-GameCast/gamecast-server)
+- **GMG**
+  - [backend](https://github.com/project-GMG/backend)
 
 ## 핵심 기술
 | 영역 | 기술 |
