@@ -41,7 +41,20 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 </td>
 <td width="50%" valign="top">
 <p align="center">
-  <a href="https://github.com/UMC-GameCast"><img src="https://github.com/UMC-GameCast.png?size=160" width="82" alt="GameCast 로고" /></a>
+  <a href="https://github.com/project-GMG"><img src="https://github.com/project-GMG.png?size=160" width="82" alt="GMG 가면가 로고" /></a>
+</p>
+<h3 align="center">GMG — 가면가</h3>
+<p><b>비선호 데이터를 이용해 약속 조율 비용을 줄이는 서비스</b></p>
+<p>30분 단위 히트맵과 장소 추천을 계산하고, 트랜잭션 커밋 이후 SSE로 결과를 갱신합니다. Kakao/Google Maps 데이터를 결합해 영업시간과 참여자 비선호까지 추천에 반영했습니다.</p>
+<p><b>My Impact</b> · 공개 커밋 24회<br/>참여자 시간표 조회·수정, 동시 참여 레이스 컨디션 방지, 히트맵 집계 정합성을 개선했습니다.</p>
+<p><code>Java 21</code> <code>Spring Boot 3.5</code> <code>JPA</code> <code>Flyway</code> <code>MySQL</code> <code>SSE</code></p>
+<a href="https://github.com/project-GMG/backend">Backend →</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<p align="center">
+  <a href="https://github.com/UMC-GameCast"><img src="https://github.com/UMC-GameCast.png?size=200" width="120" alt="GameCast 로고" /></a>
 </p>
 <h3 align="center">GameCast</h3>
 <p><b>게임 플레이를 실시간으로 연결하는 미디어 서버</b></p>
@@ -51,28 +64,9 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 <a href="https://github.com/UMC-GameCast/gamecast-server">Server →</a>
 <br/><br/>
 <p align="center">
-  <img src="./assets/GameCast/game-room.jpg" width="100%" alt="GameCast 게임방 준비 화면" />
-  <br/>
-  <img src="./assets/GameCast/highlight-editor.jpg" width="100%" alt="GameCast 하이라이트 자막 편집 화면" />
-</p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<p align="center">
-  <a href="https://github.com/project-GMG"><img src="https://github.com/project-GMG.png?size=200" width="120" alt="GMG 가면가 로고" /></a>
-</p>
-<h3 align="center">GMG — 가면가</h3>
-<p><b>비선호 데이터를 이용해 약속 조율 비용을 줄이는 서비스</b></p>
-<p>30분 단위 히트맵과 장소 추천을 계산하고, 트랜잭션 커밋 이후 SSE로 결과를 갱신합니다. Kakao/Google Maps 데이터를 결합해 영업시간과 참여자 비선호까지 추천에 반영했습니다.</p>
-<p><b>My Impact</b> · 공개 커밋 24회<br/>참여자 시간표 조회·수정, 동시 참여 레이스 컨디션 방지, 히트맵 집계 정합성을 개선했습니다.</p>
-<p><code>Java 21</code> <code>Spring Boot 3.5</code> <code>JPA</code> <code>Flyway</code> <code>MySQL</code> <code>SSE</code></p>
-<a href="https://github.com/project-GMG/backend">Backend →</a>
-<br/><br/>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dee88061-eac3-4951-af87-b50f977f68a8" height="300" alt="GMG 모임 생성 화면" />
+  <img src="./assets/GameCast/game-room.jpg" width="49%" alt="GameCast 게임방 준비 화면" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/6ad969e7-7bc0-4a60-98ef-6e38032f51a6" height="300" alt="GMG 일정 조율 화면" />
+  <img src="./assets/GameCast/highlight-editor.jpg" width="49%" alt="GameCast 하이라이트 자막 편집 화면" />
 </p>
 </td>
 </tr>
