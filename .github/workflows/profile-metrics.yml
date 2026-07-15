@@ -43,15 +43,12 @@ jobs:
             joomidang/paper-summarizer-summry-worker,
             UMC-GameCast/gamecast-server@dev,
             project-GMG/backend
-          plugin_languages_sections: most-used, recently-used
+          plugin_languages_sections: most-used
           plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
           plugin_languages_threshold: 1%
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 500
           plugin_languages_analysis_timeout: 30
           commits_authoring: >-
             zzl-hyun,
             kimgihyun877@gmail.com,
             74497151+zzl-hyun@users.noreply.github.com
-
