@@ -49,6 +49,12 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 <p><b>My Impact</b> · 공개 커밋 24회<br/>참여자 시간표 조회·수정, 동시 참여 레이스 컨디션 방지, 히트맵 집계 정합성을 개선했습니다.</p>
 <p><code>Java 21</code> <code>Spring Boot 3.5</code> <code>JPA</code> <code>Flyway</code> <code>MySQL</code> <code>SSE</code></p>
 <a href="https://github.com/project-GMG/backend">Backend →</a>
+<br/><br/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dee88061-eac3-4951-af87-b50f977f68a8" height="220" alt="GMG 모임 생성 화면" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/6ad969e7-7bc0-4a60-98ef-6e38032f51a6" height="220" alt="GMG 일정 조율 화면" />
+</p>
 </td>
 </tr>
 <tr>
