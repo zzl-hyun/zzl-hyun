@@ -49,7 +49,20 @@
 - 반복 업무 자동화와 개발 생산성 개선
 - 사용자 관점에서 우선순위 잡는 제품 개발
 
-## 📊 GitHub Snapshot
+## 📊 Fun Git Stats
+<div align="center">
+  <img width="49%" src="https://streak-stats.demolab.com?user=zzl-hyun&theme=tokyonight&hide_border=true&locale=ko" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zzl-hyun&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zzl-hyun&theme=tokyo-night&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=zzl-hyun&theme=onestar&no-frame=true&row=1&column=7" />
+</div>
+
 ![Public Repositories](https://img.shields.io/badge/Public%20Repos-20-2ea44f?style=flat-square&logo=github)
 ![Main Focus](https://img.shields.io/badge/Focus-Backend%20%2B%20Automation-1f6feb?style=flat-square)
 ![Current Mode](https://img.shields.io/badge/Mode-Build%20%E2%86%92%20Measure%20%E2%86%92%20Improve-f59e0b?style=flat-square)
