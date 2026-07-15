@@ -28,7 +28,7 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
   <a href="https://github.com/joomidang"><img src="https://github.com/joomidang.png?size=160" width="82" alt="주미당 로고" /></a>
 </p>
 <h3 align="center">Paper Summarizer</h3>
-<p><b>GPT 기반 논문 요약·시각화 플랫폼</b></p>
+<p><b>LLM 기반 논문 요약·시각화 플랫폼</b></p>
 <p>문서 처리와 AI 요약 작업을 분리한 백엔드/워커 구조. 긴 작업의 경계를 나누고 서비스 간 흐름을 설계했습니다.</p>
 <p><b>My Impact</b> · 공개 커밋 107회<br/>회원·인증 API와 배포/콜백 연동을 구현하고, Gemini/OpenAI 요약 워커를 개선했습니다.</p>
 <p><code>Spring Boot</code> <code>Java</code> <code>Python</code> <code>AI Pipeline</code></p>
