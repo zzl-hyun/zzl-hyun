@@ -131,12 +131,6 @@ flowchart LR
   <img width="49%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
 </div>
 
-### 3D contribution skyline
-
-<div align="center">
-  <img width="98%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub profile 3D contribution calendar" />
-</div>
-
 <div align="center">
 
 ### Build clearly. Ship reliably. Improve continuously.
