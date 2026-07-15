@@ -1,99 +1,119 @@
 <div align="center">
 
-# 안녕하세요, **Hyun**입니다.
-### `문제를 구조화하고, 안정적으로 구현하며, 지속적으로 개선합니다.`
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:7C3AED&height=230&section=header&text=HYUN&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20ENGINEER%20%C2%B7%20SYSTEM%20BUILDER&descAlignY=57&descSize=18&animation=fadeIn)
 
-<a href="https://github.com/zzl-hyun?tab=followers">
-  <img src="https://img.shields.io/github/followers/zzl-hyun?style=for-the-badge&logo=github&label=팔로워" />
-</a>
-<a href="https://github.com/zzl-hyun?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-보러가기-181717?style=for-the-badge&logo=github" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=zzl-hyun&style=for-the-badge&color=0e75b6" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Complexity+in%2C+simplicity+out.;AI+pipelines+%C2%B7+Real-time+systems+%C2%B7+Backend+architecture;%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EB%84%98%EC%96%B4%2C+%EC%9A%B4%EC%98%81%EB%90%98%EB%8A%94+%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+
+<a href="https://github.com/zzl-hyun?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="repositories" /></a>
+<a href="https://github.com/zzl-hyun?tab=followers"><img src="https://img.shields.io/github/followers/zzl-hyun?style=for-the-badge&logo=github&label=Follow&color=1F6FEB" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=zzl-hyun&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
----
+## `> whoami`
 
-## 소개
-- 문제를 빠르게 쪼개고, 작게 배포하고, 데이터로 개선하는 개발자입니다.
-- “일단 돌아가게”보다 “오래 유지되는 구조”를 지향합니다.
+```text
+현실의 복잡한 문제를 명확한 도메인과 안정적인 API로 바꿉니다.
+AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
+서비스의 흐름 전체를 이해하고 끝까지 구현하는 백엔드 개발자입니다.
+```
 
-## 기술 스택 (레포지토리 기반)
-### Backend
-- **Java / Spring**: [spring-start](https://github.com/zzl-hyun/spring-start), [spring-mvc1](https://github.com/zzl-hyun/spring-mvc1), [Java-mid1](https://github.com/zzl-hyun/Java-mid1)
-- **Node.js / Express**: [24-2-WSD-Assignment-03](https://github.com/zzl-hyun/24-2-WSD-Assignment-03)
+- **Product-minded** — 기능의 개수보다 사용자의 병목을 먼저 찾습니다.
+- **Architecture-aware** — 책임, 경계, 실패 지점을 설계에 드러냅니다.
+- **Production-ready** — 비동기 처리, 실시간 갱신, 배포와 운영까지 고민합니다.
 
-### Frontend
-- **TypeScript / React**: [24-2-WSD-Assignment-02](https://github.com/zzl-hyun/24-2-WSD-Assignment-02)
-- **Web 기본기 (HTML/CSS/JS)**: [24-2-WSD-Assignment-01](https://github.com/zzl-hyun/24-2-WSD-Assignment-01)
+## Featured builds
 
-### AI · Data · Automation
-- **Python / ML 실험**: [24-2-Machine-Learning](https://github.com/zzl-hyun/24-2-Machine-Learning), [24-1-Artificial-Intelligence](https://github.com/zzl-hyun/24-1-Artificial-Intelligence), [fake-audio-detection](https://github.com/zzl-hyun/fake-audio-detection)
-- **자동화 프로젝트**: [Automatic-settlement](https://github.com/zzl-hyun/Automatic-settlement)
-
-### System / Native
-- **C / C++**: [24-1-Operating-System](https://github.com/zzl-hyun/24-1-Operating-System), [TaskbarSpeedControl](https://github.com/zzl-hyun/TaskbarSpeedControl)
-- **C# 데스크톱 유틸리티**: [TaskbarMusicWidget](https://github.com/zzl-hyun/TaskbarMusicWidget)
-
-### 주요 프로젝트
-- <img src="https://img.shields.io/badge/Capstone-Paper%20Summarizer-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  - [paper-summarizer-backend](https://github.com/joomidang/paper-summarizer-backend)
-  - [paper-summarizer-summry-worker](https://github.com/joomidang/paper-summarizer-summry-worker)
-- <img src="https://img.shields.io/badge/UMC-GameCast-2563EB?style=for-the-badge&logo=gamejolt&logoColor=white" />
-  - [gamecast-server](https://github.com/UMC-GameCast/gamecast-server)
-- <img src="https://img.shields.io/badge/Project-GMG-059669?style=for-the-badge&logo=github&logoColor=white" />
-  - [backend](https://github.com/project-GMG/backend)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>📑 Paper Summarizer</h3>
+<p><b>GPT 기반 논문 요약·시각화 플랫폼</b></p>
+<p>문서 처리와 AI 요약 작업을 분리한 백엔드/워커 구조. 긴 작업의 경계를 나누고 서비스 간 흐름을 설계했습니다.</p>
+<p><code>Spring Boot</code> <code>Java</code> <code>Python</code> <code>AI Pipeline</code></p>
+<a href="https://github.com/joomidang/paper-summarizer-backend">Backend →</a><br/>
+<a href="https://github.com/joomidang/paper-summarizer-summry-worker">Summary Worker →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🎮 GameCast</h3>
+<p><b>게임 플레이를 실시간으로 연결하는 미디어 서버</b></p>
+<p>Socket.IO/WebRTC 시그널링, 녹화 흐름과 AI 하이라이트 콜백을 연결하고 S3 기반 미디어 파이프라인을 구축했습니다.</p>
+<p><code>TypeScript</code> <code>Express</code> <code>WebRTC</code> <code>Socket.IO</code></p>
+<a href="https://github.com/UMC-GameCast/gamecast-server">Server →</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🗓️ GMG — 가면가</h3>
+<p><b>비선호 데이터를 이용해 약속 조율 비용을 줄이는 서비스</b></p>
+<p>30분 단위 히트맵과 장소 추천을 계산하고, 트랜잭션 커밋 이후 SSE로 결과를 갱신합니다. Kakao/Google Maps 데이터를 결합해 영업시간과 참여자 비선호까지 추천에 반영했습니다.</p>
+<p><code>Java 21</code> <code>Spring Boot 3.5</code> <code>JPA</code> <code>Flyway</code> <code>MySQL</code> <code>SSE</code></p>
+<a href="https://github.com/project-GMG/backend">Backend →</a>
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joomidang&repo=paper-summarizer-backend&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joomidang&repo=paper-summarizer-summry-worker&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/joomidang/paper-summarizer-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joomidang&repo=paper-summarizer-backend&theme=github_dark&hide_border=true&border_radius=10" alt="Paper Summarizer backend" /></a>
+  <a href="https://github.com/joomidang/paper-summarizer-summry-worker"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joomidang&repo=paper-summarizer-summry-worker&theme=github_dark&hide_border=true&border_radius=10" alt="Paper Summarizer worker" /></a>
+  <a href="https://github.com/UMC-GameCast/gamecast-server"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UMC-GameCast&repo=gamecast-server&theme=github_dark&hide_border=true&border_radius=10" alt="GameCast server" /></a>
+  <a href="https://github.com/project-GMG/backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=project-GMG&repo=backend&theme=github_dark&hide_border=true&border_radius=10" alt="GMG backend" /></a>
+</div>
+
+## Engineering toolbox
+
+<div align="center">
+
+### Core
+
+[![Core](https://skillicons.dev/icons?i=java,spring,py,ts,nodejs,express&theme=dark)](https://skillicons.dev)
+
+### Data · Infra · Delivery
+
+[![Infra](https://skillicons.dev/icons?i=mysql,redis,docker,nginx,aws,githubactions,gradle,git&theme=dark)](https://skillicons.dev)
+
+</div>
+
+```mermaid
+flowchart LR
+    A[Problem] --> B[Domain model]
+    B --> C[API & async flow]
+    C --> D[Data & external systems]
+    D --> E[Deploy & observe]
+    E -. feedback .-> A
+```
+
+<details>
+<summary><b>What I care about when building</b></summary>
+<br/>
+
+| Area | Focus |
+|---|---|
+| API | 예측 가능한 계약, 일관된 오류 응답, 입력 경계 검증 |
+| Data | 명시적인 트랜잭션 경계, 안전한 마이그레이션, 쿼리 비용 |
+| Async | 재시도와 멱등성, 이벤트 발행 시점, 실패 격리 |
+| Real-time | 연결 수명주기, heartbeat, 프록시 버퍼링, graceful cleanup |
+| Delivery | 재현 가능한 빌드, 컨테이너화, 환경별 설정 분리 |
+
+</details>
+
+## GitHub signal
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zzl-hyun&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=zzl-hyun&theme=github-dark-blue&hide_border=true&border_radius=10&locale=ko" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UMC-GameCast&repo=gamecast-server&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=project-GMG&repo=backend&theme=tokyonight&hide_border=true" />
-</div>
-
-## 핵심 기술
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,react,py,cpp,cs,html,css,js&theme=dark" />
-</div>
-
-| 영역 | 기술 |
-| --- | --- |
-| Backend | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> |
-| Frontend | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
-| AI · Data | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> |
-| System / Native | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" /> |
-
-## 현재 집중 분야
-- 읽기 쉬운 코드와 명확한 책임 분리
-- 반복 업무 자동화와 개발 생산성 개선
-- 사용자 관점에서 우선순위 잡는 제품 개발
-
-## GitHub 통계
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=zzl-hyun&theme=tokyonight&hide_border=true&locale=ko" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zzl-hyun&theme=tokyonight" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zzl-hyun&theme=github-compact&hide_border=true&radius=10&area=true" alt="Contribution graph" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=zzl-hyun&theme=tokyo-night&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=zzl-hyun&theme=onestar&no-frame=true&row=1&column=7" />
-</div>
+### Build clearly. Ship reliably. Improve continuously.
 
-![Public Repositories](https://img.shields.io/badge/Public%20Repos-20-2ea44f?style=flat-square&logo=github)
-![Main Focus](https://img.shields.io/badge/Focus-Backend%20%2B%20Automation-1f6feb?style=flat-square)
-![Current Mode](https://img.shields.io/badge/Mode-Build%20%E2%86%92%20Measure%20%E2%86%92%20Improve-f59e0b?style=flat-square)
+<sub>Thanks for stopping by — interesting systems are always worth a conversation.</sub>
 
----
-
-<div align="center">
-
-### "지속 가능한 코드가 좋은 제품을 만든다."
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1F6FEB,100:0D1117&height=110&section=footer)
 
 </div>
