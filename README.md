@@ -37,32 +37,35 @@
 - **C# 데스크톱 유틸리티**: [TaskbarMusicWidget](https://github.com/zzl-hyun/TaskbarMusicWidget)
 
 ### 주요 프로젝트
-- **Capstone · Paper Summarizer**
+- <img src="https://img.shields.io/badge/Capstone-Paper%20Summarizer-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" />
   - [paper-summarizer-backend](https://github.com/joomidang/paper-summarizer-backend)
   - [paper-summarizer-summry-worker](https://github.com/joomidang/paper-summarizer-summry-worker)
-- **UMC GameCast**
+- <img src="https://img.shields.io/badge/UMC-GameCast-2563EB?style=for-the-badge&logo=gamejolt&logoColor=white" />
   - [gamecast-server](https://github.com/UMC-GameCast/gamecast-server)
-- **GMG**
+- <img src="https://img.shields.io/badge/Project-GMG-059669?style=for-the-badge&logo=github&logoColor=white" />
   - [backend](https://github.com/project-GMG/backend)
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joomidang&repo=paper-summarizer-backend&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=joomidang&repo=paper-summarizer-summry-worker&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=UMC-GameCast&repo=gamecast-server&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=project-GMG&repo=backend&theme=tokyonight&hide_border=true" />
+</div>
+
 ## 핵심 기술
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,ts,react,py,cpp,cs,html,css,js&theme=dark" />
+</div>
+
 | 영역 | 기술 |
 | --- | --- |
-| Backend | Java, Spring, Node.js, Express |
-| Frontend | TypeScript, React, HTML/CSS/JavaScript |
-| AI · Data | Python, Machine Learning, Audio Detection |
-| System / Native | C, C++, C# |
-
-<div>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-</div>
+| Backend | <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> |
+| Frontend | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| AI · Data | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> |
+| System / Native | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" /> |
 
 ## 현재 집중 분야
 - 읽기 쉬운 코드와 명확한 책임 분리
