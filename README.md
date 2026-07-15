@@ -19,36 +19,40 @@
 - 문제를 빠르게 쪼개고, 작게 배포하고, 데이터로 개선하는 개발자입니다.
 - “일단 돌아가게”보다 “오래 유지되는 구조”를 지향합니다.
 
-## 🧰 기술 스택
-### Language
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+## 🧩 레포 기반 스킬맵
+### Backend
+- **Java / Spring**: [spring-start](https://github.com/zzl-hyun/spring-start), [spring-mvc1](https://github.com/zzl-hyun/spring-mvc1), [Java-mid1](https://github.com/zzl-hyun/Java-mid1)
+- **Node.js / Express**: [24-2-WSD-Assignment-03](https://github.com/zzl-hyun/24-2-WSD-Assignment-03)
 
-### Framework / Runtime
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+### Frontend
+- **TypeScript / React**: [24-2-WSD-Assignment-02](https://github.com/zzl-hyun/24-2-WSD-Assignment-02)
+- **Web 기본기 (HTML/CSS/JS)**: [24-2-WSD-Assignment-01](https://github.com/zzl-hyun/24-2-WSD-Assignment-01)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### AI · Data · Automation
+- **Python / ML 실험**: [24-2-Machine-Learning](https://github.com/zzl-hyun/24-2-Machine-Learning), [24-1-Artificial-Intelligence](https://github.com/zzl-hyun/24-1-Artificial-Intelligence), [fake-audio-detection](https://github.com/zzl-hyun/fake-audio-detection)
+- **자동화 프로젝트**: [Automatic-settlement](https://github.com/zzl-hyun/Automatic-settlement)
+
+### System / Native
+- **C / C++**: [24-1-Operating-System](https://github.com/zzl-hyun/24-1-Operating-System), [TaskbarSpeedControl](https://github.com/zzl-hyun/TaskbarSpeedControl)
+- **C# 데스크톱 유틸리티**: [TaskbarMusicWidget](https://github.com/zzl-hyun/TaskbarMusicWidget)
+
+## 🛠 핵심 기술 태그
+![Java](https://img.shields.io/badge/Java-4%20repos-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3%20repos-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-React-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Windows%20Utility-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Desktop%20Widget-512BD4?style=flat-square&logo=csharp&logoColor=white)
 
 ## 📌 요즘 집중하는 것
 - 읽기 쉬운 코드와 명확한 책임 분리
 - 반복 업무 자동화와 개발 생산성 개선
 - 사용자 관점에서 우선순위 잡는 제품 개발
 
-## 📈 GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zzl-hyun&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzl-hyun&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</div>
-
-## 🔥 Contribution Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zzl-hyun&theme=transparent&hide_border=true" />
-</div>
+## 📊 GitHub Snapshot
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-20-2ea44f?style=flat-square&logo=github)
+![Main Focus](https://img.shields.io/badge/Focus-Backend%20%2B%20Automation-1f6feb?style=flat-square)
+![Current Mode](https://img.shields.io/badge/Mode-Build%20%E2%86%92%20Measure%20%E2%86%92%20Improve-f59e0b?style=flat-square)
 
 ---
 
