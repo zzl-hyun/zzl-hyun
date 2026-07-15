@@ -79,6 +79,16 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
   <a href="https://github.com/project-GMG/backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=project-GMG&repo=backend&theme=github_dark&hide_border=true&border_radius=10" alt="GMG backend" /></a>
 </div>
 
+### Side quests
+
+<sub>생활 속 작은 불편을 그냥 지나치지 않고 직접 도구로 해결합니다.</sub>
+
+| Project | What it does | Built with |
+|---|---|---|
+| [🧾 Automatic Settlement](https://github.com/zzl-hyun/Automatic-settlement) | 참여자별 지출을 1/N로 나누고 최종 송금 내역을 계산하는 브라우저 가계부 | `Vanilla JS` `localStorage` |
+| [🎵 Taskbar Music Widget](https://github.com/zzl-hyun/TaskbarMusicWidget) | Windows 작업표시줄에서 재생 제어·곡 정보·앱별 음량을 다루는 미니 위젯 | `.NET 8` `WPF` `NAudio` |
+| [⚡ Taskbar Speed Control](https://github.com/zzl-hyun/TaskbarSpeedControl) | 작업표시줄 자동 숨김 속도와 프레임을 네이티브 훅으로 제어하는 유틸리티 | `C#` `C++` `WinAPI` |
+
 ## Engineering toolbox
 
 <div align="center">
