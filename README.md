@@ -49,6 +49,12 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 <p><b>My Impact</b> · 공개 커밋 136회<br/>룸·영상·WebRTC 서비스와 하이라이트 콜백을 구현하고, Docker/AWS CI/CD 흐름을 구축했습니다.</p>
 <p><code>TypeScript</code> <code>Express</code> <code>WebRTC</code> <code>Socket.IO</code></p>
 <a href="https://github.com/UMC-GameCast/gamecast-server">Server →</a>
+<br/><br/>
+<p align="center">
+  <img src="./assets/GameCast/game-room.jpg" width="100%" alt="GameCast 게임방 준비 화면" />
+  <br/>
+  <img src="./assets/GameCast/highlight-editor.jpg" width="100%" alt="GameCast 하이라이트 자막 편집 화면" />
+</p>
 </td>
 </tr>
 <tr>
