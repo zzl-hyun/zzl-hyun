@@ -30,7 +30,7 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 <h3 align="center">Paper Summarizer</h3>
 <p><b>LLM 기반 논문 요약·시각화 플랫폼</b></p>
 <p>문서 처리와 AI 요약 작업을 분리한 백엔드/워커 구조. 긴 작업의 경계를 나누고 서비스 간 흐름을 설계했습니다.</p>
-<p><b>My Impact</b> · 공개 커밋 107회<br/>회원·인증 API와 배포/콜백 연동을 구현하고, Gemini/OpenAI 요약 워커를 개선했습니다.</p>
+<p><b>My Impact</b> · 콜백 연동을 구현하고, Gemini/OpenAI 요약 워커를 개선했습니다.</p>
 <p><code>Spring Boot</code> <code>Java</code> <code>Python</code> <code>AI Pipeline</code></p>
 <a href="https://github.com/joomidang/paper-summarizer-backend">Backend →</a><br/>
 <a href="https://github.com/joomidang/paper-summarizer-summry-worker">Summary Worker →</a>
@@ -42,7 +42,7 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 <h3 align="center">GMG — 가면가</h3>
 <p><b>비선호 데이터를 이용해 약속 조율 비용을 줄이는 서비스</b></p>
 <p>30분 단위 히트맵과 장소 추천을 계산하고, 트랜잭션 커밋 이후 SSE로 결과를 갱신합니다. Kakao/Google Maps 데이터를 결합해 영업시간과 참여자 비선호까지 추천에 반영했습니다.</p>
-<p><b>My Impact</b> · 공개 커밋 24회<br/>참여자 시간표 조회·수정, 동시 참여 레이스 컨디션 방지, 히트맵 집계 정합성을 개선했습니다.</p>
+<p><b>My Impact</b> · <br/>참여자 시간표 조회·수정, 동시 참여 레이스 컨디션 방지, 히트맵 집계 정합성을 개선했습니다.</p>
 <p><code>Java 21</code> <code>Spring Boot 3.5</code> <code>JPA</code> <code>Flyway</code> <code>MySQL</code> <code>SSE</code></p>
 <a href="https://github.com/project-GMG/backend">Backend →</a>
 <br/><br/>
@@ -61,7 +61,7 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 <h3 align="center">GameCast</h3>
 <p><b>게임 플레이를 실시간으로 연결하는 미디어 서버</b></p>
 <p>Socket.IO/WebRTC 시그널링, 녹화 흐름과 AI 하이라이트 콜백을 연결하고 S3 기반 미디어 파이프라인을 구축했습니다.</p>
-<p><b>My Impact</b> · 공개 커밋 136회<br/>룸·영상·WebRTC 서비스와 하이라이트 콜백을 구현하고, Docker/AWS CI/CD 흐름을 구축했습니다.</p>
+<p><b>My Impact</b> · <br/>룸·영상·WebRTC 서비스와 하이라이트 콜백을 구현하고, Docker/AWS CI/CD 흐름을 구축했습니다.</p>
 <p><code>TypeScript</code> <code>Express</code> <code>WebRTC</code> <code>Socket.IO</code></p>
 <a href="https://github.com/UMC-GameCast/gamecast-server">Server →</a>
 <br/><br/>
