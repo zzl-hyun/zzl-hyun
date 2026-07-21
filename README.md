@@ -12,13 +12,6 @@
 
 </div>
 
-## `> whoami`
-
-```text
-AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
-서비스의 흐름 전체를 이해하고 끝까지 구현하는 개발자입니다.
-```
-
 ## Featured builds
 
 <table>
@@ -105,29 +98,6 @@ AI 작업 파이프라인부터 실시간 통신, 외부 API 연동까지
 
 </div>
 
-```mermaid
-flowchart LR
-    A[Problem] --> B[Domain model]
-    B --> C[API & async flow]
-    C --> D[Data & external systems]
-    D --> E[Deploy & observe]
-    E -. feedback .-> A
-```
-
-<details>
-<summary><b>What I care about when building</b></summary>
-<br/>
-
-| Area | Focus |
-|---|---|
-| API | 예측 가능한 계약, 일관된 오류 응답, 입력 경계 검증 |
-| Data | 명시적인 트랜잭션 경계, 안전한 마이그레이션, 쿼리 비용 |
-| Async | 재시도와 멱등성, 이벤트 발행 시점, 실패 격리 |
-| Real-time | 연결 수명주기, heartbeat, 프록시 버퍼링, graceful cleanup |
-| Delivery | 재현 가능한 빌드, 컨테이너화, 환경별 설정 분리 |
-
-</details>
-
 ## Proof of work
 
 <div align="center">
@@ -144,11 +114,13 @@ flowchart LR
 
 ### Isometric contribution calendar
 
-<div align="center">
-  <img width="90%" src="./assets/metrics-isocalendar.svg" alt="Full-year isometric commit calendar" />
-</div>
-
-<div align="center">
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/night.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/day.svg" />
+      <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/day.svg" />
+    </picture>
+  </p>
 
 ### Build clearly. Ship reliably. Improve continuously.
 
