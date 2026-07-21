@@ -2,6 +2,11 @@ name: 3D Contribution Graph
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-3d-contrib.yml
+      - conf/github-profile-3d-contrib.json
   schedule:
     # Every day at 02:00 KST (17:00 UTC)
     - cron: "0 17 * * *"
