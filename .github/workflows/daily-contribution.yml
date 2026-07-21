@@ -1,0 +1,37 @@
+name: Daily Contribution
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every day at 00:10 KST (15:10 UTC)
+    - cron: "10 15 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-contribution
+  cancel-in-progress: false
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out default branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Update activity record
+        env:
+          TZ: Asia/Seoul
+        run: date '+Last automated activity: %Y-%m-%d %H:%M:%S %Z' > .github/daily-activity.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "zzl-hyun"
+          git config user.email "kimgihyun877@gmail.com"
+          git add .github/daily-activity.txt
+          git commit -m "chore: update daily activity"
+          git pull --rebase origin main
+          git push origin HEAD:main
