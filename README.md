@@ -140,8 +140,3 @@
 | 빅데이터분석기사 | 국가기술자격 | 2025.12 |
 | TOEIC Speaking | 140 | 2025.02 |
 | TOEIC | 850 | 2024.08 |
-
-## Contact
-
-- GitHub: [github.com/zzl-hyun](https://github.com/zzl-hyun)
-- Email: [kimgihyun877@gmail.com](mailto:kimgihyun877@gmail.com)
