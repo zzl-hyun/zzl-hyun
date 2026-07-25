@@ -97,6 +97,7 @@
 | [Automatic Settlement](https://github.com/zzl-hyun/Automatic-settlement) | 참여자별 분담 금액과 최종 송금 내역을 계산하는 정산 도구 | `Vanilla JS` `localStorage` |
 | [Taskbar Music Widget](https://github.com/zzl-hyun/TaskbarMusicWidget) | Windows 작업 표시줄에서 재생 정보와 앱별 음량을 제어하는 위젯 | `.NET 8` `WPF` `NAudio` |
 | [Taskbar Speed Control](https://github.com/zzl-hyun/TaskbarSpeedControl) | 작업 표시줄 자동 숨김 속도와 프레임을 제어하는 유틸리티 | `C#` `C++` `WinAPI` |
+| [macOS Preview Image Paste](https://github.com/zzl-hyun/MacOS-preview-image-paste) | PNG 데이터를 미리보기 호환 객체로 변환해 PDF에 붙여넣을 수 있게 하는 도구 | `Swift` `Shell` `AnnotationKit` |
 
 ## Education
 
