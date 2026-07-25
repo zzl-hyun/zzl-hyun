@@ -49,7 +49,7 @@
 
 `Spring Boot` `Java` `Python` `AI Pipeline` `Google Gen AI SDK` `Docker` `AWS`
 
-[Backend](https://github.com/joomidang/paper-summarizer-backend) · [Summary Worker](https://github.com/joomidang/paper-summarizer-summry-worker)
+[Backend](https://github.com/joomidang/paper-summarizer-backend) · [Summary Worker](https://github.com/joomidang/paper-summarizer-summry-worker) · [Presentation](https://foil-tiglon-4b0.notion.site/LLM-3a8e7043597980a88854ddd802966579)
 
 ---
 
