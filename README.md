@@ -125,12 +125,21 @@
 
 ## Awards
 
-### 산학협력 SW캡스톤디자인 경진대회 최우수상
+### [산학협력 SW캡스톤디자인 경진대회 최우수상](https://swuniv.jbnu.ac.kr/festival/jbnusw?gc=893BAOF&do=view&festival_id=gvyje9Tei6W679047c5&syear=2025&content_id=bzCg8OImfwl6886e13f)
 
 - **주최** · 전북대학교 SW중심대학사업단
 - **수상일** · 2025.06.20
 - **과제** · LLM을 활용한 AI 논문 요약 및 시각화 플랫폼
 - **프로젝트** · [Paper Summarizer](https://github.com/joomidang/paper-summarizer-backend)
+
+## Certifications
+
+| Certification | Detail | Date |
+|---|---:|---:|
+| 정보처리기사 | 국가기술자격 | 2025.12 |
+| 빅데이터분석기사 | 국가기술자격 | 2025.12 |
+| TOEIC Speaking | 140 | 2026.02 |
+| TOEIC | 850 | 2024.08 |
 
 ## Contact
 
