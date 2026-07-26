@@ -23,12 +23,6 @@
 
 </div>
 
-## Commit Activity
-
-<p align="center">
-  <img width="90%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
-</p>
-
 ### Contribution Calendar
 
 <p align="center">
@@ -39,6 +33,11 @@
   </picture>
 </p>
 
+## Commit Activity
+
+<p align="center">
+  <img width="90%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
+</p>
 ## Projects
 
 ### Paper Summarizer
