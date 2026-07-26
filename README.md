@@ -61,7 +61,7 @@
 
 `Java 21` `Spring Boot 3.5` `JPA` `Flyway` `MySQL` `SSE` `Docker` `AWS`
 
-[Backend](https://github.com/project-GMG/backend)
+[GMG](https://github.com/project-GMG/)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dee88061-eac3-4951-af87-b50f977f68a8" height="220" alt="GMG 모임 생성 화면" />
@@ -81,7 +81,7 @@
 
 `TypeScript` `Express` `WebRTC` `Socket.IO` `Docker` `AWS` `YAMNet`
 
-[Server](https://github.com/UMC-GameCast/gamecast-server)
+[GameCast](https://github.com/UMC-GameCast/)
 
 <p align="center">
   <img src="./assets/GameCast/game-room.jpg" width="49%" alt="GameCast 게임방 준비 화면" />
