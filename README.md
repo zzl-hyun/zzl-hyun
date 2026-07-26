@@ -112,7 +112,7 @@
 - 실무형 AI 인재 프로그램 · 26.07~26.12
 - AI 실무 교육 및 SK그룹 비즈니스 문제 기반 팀 프로젝트 수행
 
-### [PAGE (Purdue Academy of Global Engineering)](https://engineering.purdue.edu/GEP/Global-Opportunities/PAGE)
+### [Purdue Academy of Global Engineering (PAGE)](https://engineering.purdue.edu/GEP/Global-Opportunities/PAGE)
 
 - [Purdue University](https://www.purdue.edu/)
 - PAGE · `Big Data & AI` · 25.06~25.07
