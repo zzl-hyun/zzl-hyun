@@ -81,7 +81,7 @@
 
 `TypeScript` `Express` `WebRTC` `Socket.IO` `Docker` `AWS` `YAMNet`
 
-[GameCast](https://github.com/UMC-GameCast/)
+[Server](https://github.com/UMC-GameCast/gamecast-server)
 
 <p align="center">
   <img src="./assets/GameCast/game-room.jpg" width="49%" alt="GameCast 게임방 준비 화면" />
@@ -114,7 +114,7 @@
 
 ### [Purdue Academy of Global Engineering (PAGE)](https://engineering.purdue.edu/GEP/Global-Opportunities/PAGE)
 
-- [Purdue University](https://www.purdue.edu/)
+- [Purdue University](https://www.purdue.edu/) in West Lafayette, Indiana
 - PAGE · `Big Data & AI` · 25.06~25.07
 
 ### [UMC 8th](https://umc.makeus.in/)
