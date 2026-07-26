@@ -15,11 +15,11 @@
 
 ### Core
 
-[![Core](https://skillicons.dev/icons?i=java,spring,py,ts,nodejs,express&theme=dark)](https://skillicons.dev)
+[![Core](https://skillicons.dev/icons?i=c,java,spring,py,ts,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### Data · Infra · Delivery
 
-[![Infra](https://skillicons.dev/icons?i=mysql,redis,docker,nginx,aws,githubactions,gradle,git&theme=dark)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=mysql,docker,aws,githubactions,gradle,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
