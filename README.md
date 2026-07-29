@@ -13,31 +13,11 @@
 
 <div align="center">
 
-### Core
-
+[![Core](https://skillicons.dev/icons?i=aws,githubactions,cloudflare,gradle,postgres,mysql,mongodb,docker,git,&theme=dark)](https://skillicons.dev)
 [![Core](https://skillicons.dev/icons?i=c,java,spring,py,ts,nodejs,express&theme=dark)](https://skillicons.dev)
-
-### Data · Infra · Delivery
-
-[![Infra](https://skillicons.dev/icons?i=mysql,docker,aws,githubactions,gradle,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
-### Contribution Calendar
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/night.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/day.svg" />
-    <img alt="GitHub contribution calendar" src="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/day.svg" />
-  </picture>
-</p>
-
-## Commit Activity
-
-<p align="center">
-  <img width="90%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
-</p>
 ## Projects
 
 ### Paper Summarizer
@@ -97,6 +77,22 @@
 | [Taskbar Music Widget](https://github.com/zzl-hyun/TaskbarMusicWidget) | Windows 작업 표시줄에서 재생 정보와 앱별 음량을 제어하는 위젯 | `.NET 8` `WPF` `NAudio` |
 | [Taskbar Speed Control](https://github.com/zzl-hyun/TaskbarSpeedControl) | 작업 표시줄 자동 숨김 속도와 프레임을 제어하는 유틸리티 | `C#` `C++` `WinAPI` |
 | [macOS Preview Image Paste](https://github.com/zzl-hyun/MacOS-preview-image-paste) | PNG 데이터를 미리보기 호환 객체로 변환해 PDF에 붙여넣을 수 있게 하는 도구 | `Swift` `Shell` `AnnotationKit` |
+
+### Contribution Calendar
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/night.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/day.svg" />
+    <img alt="GitHub contribution calendar" src="https://raw.githubusercontent.com/zzl-hyun/zzl-hyun/output-3d-contrib/day.svg" />
+  </picture>
+</p>
+
+## Commit Activity
+
+<p align="center">
+  <img width="90%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
+</p>
 
 ## Education
 
