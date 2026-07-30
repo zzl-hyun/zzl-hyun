@@ -19,13 +19,7 @@
 </div>
 
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=zzl-hyun&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/zzl-hyun"
-  width="600"
-  height="300"
-/>
-</a>
+
 
 ## Projects
 
@@ -78,14 +72,6 @@
   <img src="./assets/GameCast/highlight-editor.jpg" width="49%" alt="GameCast 하이라이트 자막 편집 화면" />
 </p>
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=zzl-hyun&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/zzl-hyun"
-  width="600"
-  height="300"
-/>
-</a>
-
 ### Independent Projects
 
 | Project | Description | Technology |
@@ -105,11 +91,23 @@
   </picture>
 </p>
 
+
+<p align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=zzl-hyun&utm_content=farm" >
+<img
+  src="https://render.gitanimals.org/farms/zzl-hyun"
+  width="600"
+  height="300"
+/>
+</a>
+</p>
+
 ## Commit Activity
 
 <p align="center">
   <img width="90%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
 </p>
+
 
 ## Education
 
