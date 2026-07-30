@@ -18,6 +18,15 @@
 
 </div>
 
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=zzl-hyun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/zzl-hyun"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## Projects
 
 ### Paper Summarizer
