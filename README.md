@@ -2,7 +2,7 @@
 
 <h1>KIHYEON KIM</h1>
 
-<p><b>Developer</b></p>
+<p><b>Student</b></p>
 
 <p>
   <a href="https://github.com/zzl-hyun">GitHub</a> ·
