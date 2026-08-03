@@ -118,10 +118,18 @@
 
 ## Activities
 
-### [SK AI Leader Academy (SKALA) 4th](https://2026skala.co.kr/)
+### [SK AI Leader Academy (SKALA) Trainee](https://2026skala.co.kr/)
 
-- 실무형 AI 인재 프로그램 · 26.07~26.12
-- AI 실무 교육 및 SK그룹 비즈니스 문제 기반 팀 프로젝트 수행
+- 2026년 7월 - 현재 · 2개월
+
+- Selected as a trainee for the 4th cohort of SK AI Leader Academy (SKALA), an enterprise-focused AI and software engineering program.
+- Completed intensive hands-on training across AI, backend, cloud, DevOps, databases, and full-stack web development.
+
+- Built AI applications using Python, Java/Spring Boot, Vue.js, PostgreSQL, Docker, Kubernetes, and cloud-native development practices.
+
+- Developed and deployed LLM-based systems covering Transformer architectures, Spring AI, LangChain, RAG pipelines, Vector Databases, AI Agents, model serving, and AIOps.
+
+- Applied Agile methodologies, MSA architecture, DevOps workflows, and software engineering best practices through enterprise-scale team projects and capstone development.
 
 ### [Purdue Academy of Global Engineering (PAGE)](https://engineering.purdue.edu/GEP/Global-Opportunities/PAGE)
 
@@ -130,8 +138,9 @@
 
 ### [UMC 8th](https://umc.makeus.in/)
 
-- Server(Node.js) 파트 시니어 코스 수료 · 25.03~25.08
-- GameCast 서버 개발에 참여해 WebRTC 시그널링, 녹화, AI 하이라이트 연동 및 배포 환경 구축
+- Completed the Senior Course in Server (Node.js) Track · Mar 2025 – Aug 2025
+
+- Contributed to GameCast server development: built WebRTC signaling, recording features, AI highlight integration, and deployment environments
 
 ## Awards
 
