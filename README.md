@@ -120,7 +120,7 @@
 
 ### [SK AI Leader Academy (SKALA) Trainee](https://2026skala.co.kr/)
 
-- 2026년 7월 - 현재 · 2개월
+- SK AX 2026년 7월 - 현재 · 2개월
 
 - Selected as a trainee for the 4th cohort of SK AI Leader Academy (SKALA), an enterprise-focused AI and software engineering program.
 - Completed intensive hands-on training across AI, backend, cloud, DevOps, databases, and full-stack web development.
