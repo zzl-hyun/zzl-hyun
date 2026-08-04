@@ -25,9 +25,9 @@
 
 ### Paper Summarizer
 
-> LLM 기반 논문 요약·시각화 플랫폼
+> An LLM-powered platform for summarizing and visualizing academic papers
 
-문서 처리와 AI 요약 작업을 분리한 백엔드·워커 구조에서 파싱 모델 서버를 구축하고 서비스 간 작업 흐름을 설계했습니다. 콜백 연동과 Gemini·OpenAI 기반 요약 워커를 구현했습니다.
+Built a parsing model server within a backend-worker architecture that separates document processing from AI summarization. Designed inter-service workflows and implemented callback integrations and summarization workers powered by Gemini and OpenAI.
 
 `Spring Boot` `Java` `Python` `AI Pipeline` `Google Gen AI SDK` `Docker` `AWS`
 
@@ -37,49 +37,46 @@
 
 ### GMG · 가면가
 
-> 참여자의 비선호 데이터를 활용해 약속 조율 비용을 줄이는 서비스
+> A scheduling platform that reduces coordination overhead using participants' availability preferences
 
-30분 단위 히트맵과 장소 추천을 계산하고, 트랜잭션 커밋 이후 SSE로 결과를 갱신합니다.
-참여자 시간표 조회·수정, 동시 참여 레이스 컨디션 방지, 히트맵 집계 정합성을 개선했습니다.
+Developed 30-minute availability heatmaps and location recommendations, with real-time updates delivered via SSE after transaction commits. Improved participant schedule management, prevented race conditions during concurrent joins, and strengthened heatmap aggregation consistency.
 
 `Java 21` `Spring Boot 3.5` `JPA` `Flyway` `MySQL` `SSE` `Docker` `AWS`
 
 [GMG](https://github.com/project-GMG/)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dee88061-eac3-4951-af87-b50f977f68a8" height="220" alt="GMG 모임 생성 화면" />
+  <img src="https://github.com/user-attachments/assets/dee88061-eac3-4951-af87-b50f977f68a8" height="220" alt="GMG meeting creation screen" />
   &nbsp;
-  <img src="https://github.com/user-attachments/assets/6ad969e7-7bc0-4a60-98ef-6e38032f51a6" height="220" alt="GMG 일정 조율 화면" />
+  <img src="https://github.com/user-attachments/assets/6ad969e7-7bc0-4a60-98ef-6e38032f51a6" height="220" alt="GMG schedule coordination screen" />
 </p>
 
 ---
 
 ### GameCast
 
-> 멀티플레이 세션을 녹화하고 AI 하이라이트를 생성하는 숏폼 제작 도구
+> A short-form content creation tool that records multiplayer sessions and generates AI-powered highlights
 
-게임방 참가자의 화면, 게임 오디오, 마이크를 개별 녹화하고 음성을 추출해 하이라이트 구간을 탐지합니다.
-탐지 결과를 기반으로 하이라이트 영상 3개를 생성하고, 방장이 레이어 기반 편집 화면에서 클립과 미디어 요소를 조합해 숏폼 영상을 완성할 수 있도록 지원합니다.
-룸·영상·WebRTC 서비스와 AI 하이라이트 콜백을 구현하고, S3 기반 미디어 파이프라인과 Docker·AWS CI/CD 환경을 구축했습니다.
+Built a recording workflow that captures each participant's screen, game audio, and microphone separately, then extracts audio to detect highlight moments. The platform generates three highlight clips and provides a layer-based editor for combining clips and media elements into short-form videos. Implemented room, video, and WebRTC services, integrated AI highlight callbacks, and established an S3-based media pipeline with Docker and AWS CI/CD.
 
 `TypeScript` `Express` `WebRTC` `Socket.IO` `Docker` `AWS` `YAMNet`
 
 [Server](https://github.com/UMC-GameCast/gamecast-server)
 
 <p align="center">
-  <img src="./assets/GameCast/game-room.jpg" width="49%" alt="GameCast 게임방 준비 화면" />
+  <img src="./assets/GameCast/game-room.jpg" width="49%" alt="GameCast game room setup screen" />
   &nbsp;
-  <img src="./assets/GameCast/highlight-editor.jpg" width="49%" alt="GameCast 하이라이트 자막 편집 화면" />
+  <img src="./assets/GameCast/highlight-editor.jpg" width="49%" alt="GameCast highlight caption editor" />
 </p>
 
 ### Independent Projects
 
 | Project | Description | Technology |
 |---|---|---|
-| [Automatic Settlement](https://github.com/zzl-hyun/Automatic-settlement) | 참여자별 분담 금액과 최종 송금 내역을 계산하는 정산 도구 | `Vanilla JS` `localStorage` |
-| [Taskbar Music Widget](https://github.com/zzl-hyun/TaskbarMusicWidget) | Windows 작업 표시줄에서 재생 정보와 앱별 음량을 제어하는 위젯 | `.NET 8` `WPF` `NAudio` |
-| [Taskbar Speed Control](https://github.com/zzl-hyun/TaskbarSpeedControl) | 작업 표시줄 자동 숨김 속도와 프레임을 제어하는 유틸리티 | `C#` `C++` `WinAPI` |
-| [macOS Preview Image Paste](https://github.com/zzl-hyun/MacOS-preview-image-paste) | PNG 데이터를 미리보기 호환 객체로 변환해 PDF에 붙여넣을 수 있게 하는 도구 | `Swift` `Shell` `AnnotationKit` |
+| [Automatic Settlement](https://github.com/zzl-hyun/Automatic-settlement) | Calculates individual shares and final transfers for group expenses | `Vanilla JS` `localStorage` |
+| [Taskbar Music Widget](https://github.com/zzl-hyun/TaskbarMusicWidget) | Controls playback information and per-app volume from the Windows taskbar | `.NET 8` `WPF` `NAudio` |
+| [Taskbar Speed Control](https://github.com/zzl-hyun/TaskbarSpeedControl) | Customizes the animation speed and frame rate of Windows taskbar auto-hide | `C#` `C++` `WinAPI` |
+| [macOS Preview Image Paste](https://github.com/zzl-hyun/MacOS-preview-image-paste) | Converts PNG data into Preview-compatible objects for pasting images into PDFs | `Swift` `Shell` `AnnotationKit` |
 
 ### Contribution Calendar
 
@@ -102,25 +99,19 @@
 </a>
 </p>
 
-## Commit Activity
-
-<p align="center">
-  <img width="90%" src="./assets/metrics-languages.svg" alt="Languages activity based on authored commits" />
-</p>
-
-
 ## Education
 
 ### Jeonbuk National University
 
-- 컴퓨터공학부
-- GPA `4.10 / 4.50` · Rank `7 / 94`
+- B.S. in Computer Science and Engineering
+- Microdegree in Big Data Software Engineering
+- GPA `4.10 / 4.50`
 
 ## Activities
 
 ### [SK AI Leader Academy (SKALA) Trainee](https://2026skala.co.kr/)
 
-- SK AX 2026년 7월 - 현재 · 2개월
+- SK AX · Jul 2026 – Present
 
 - Selected as a trainee for the 4th cohort of SK AI Leader Academy (SKALA), an enterprise-focused AI and software engineering program.
 - Completed intensive hands-on training across AI, backend, cloud, DevOps, databases, and full-stack web development.
@@ -133,23 +124,26 @@
 
 ### [Purdue Academy of Global Engineering (PAGE)](https://engineering.purdue.edu/GEP/Global-Opportunities/PAGE)
 
-- [Purdue University](https://www.purdue.edu/) in West Lafayette, Indiana
-- PAGE · `Big Data & AI` · 25.06~25.07
+- [Purdue University](https://www.purdue.edu/) · West Lafayette, Indiana · Jun 2025 – Jul 2025
+- Completed a month-long residential `Big Data & AI` program, studying machine learning and optimization through lectures and hands-on coursework.
+- Collaborated on two team projects during the final week and presented both projects to instructors and fellow participants.
+- Experienced campus life at Purdue and explored Chicago and Indianapolis through weekend trips.
 
-### [UMC 8th](https://umc.makeus.in/)
+### [University MakeUs Challenge (UMC)](https://umc.makeus.in/)
 
-- Completed the Senior Course in Server (Node.js) Track · Mar 2025 – Aug 2025
-
-- Contributed to GameCast server development: built WebRTC signaling, recording features, AI highlight integration, and deployment environments
+- University MakeUs Challenge (UMC) · Mar 2025 – Aug 2025
+- Selected as a participant in the 8th cohort of University MakeUs Challenge (UMC), Korea's largest nationwide university tech community for product managers, designers, and developers.
+- Completed the Senior Course in the Server (Node.js) track and applied the curriculum through hands-on assignments and team development.
+- Contributed to GameCast server development by building WebRTC signaling, recording features, AI highlight integration, and deployment environments.
 
 ## Awards
 
 ### [산학협력 SW캡스톤디자인 경진대회 최우수상](https://swuniv.jbnu.ac.kr/festival/jbnusw?gc=893BAOF&do=view&festival_id=gvyje9Tei6W679047c5&syear=2025&content_id=bzCg8OImfwl6886e13f)
 
-- **주최** · 전북대학교 SW중심대학사업단
-- **수상일** · 2025.06.20
-- **과제** · LLM을 활용한 AI 논문 요약 및 시각화 플랫폼
-- **프로젝트** · [Paper Summarizer](https://github.com/joomidang/paper-summarizer-backend)
+**Organizer** · Jeonbuk National University SW-Centered University Project Group
+**Awarded** · Jun 20, 2025
+**Project** · AI-powered academic paper summarization and visualization platform using LLMs
+**Repository** · [Paper Summarizer](https://github.com/joomidang/paper-summarizer-backend)
 
 ## Certifications
 
@@ -158,4 +152,4 @@
 | 정보처리기사 | 국가기술자격 | 2025.12 |
 | 빅데이터분석기사 | 국가기술자격 | 2025.12 |
 | TOEIC Speaking | 140 | 2025.02 |
-| TOEIC | 850 | 2024.08 |
+| TOEIC | 850 | 2023.08 |
