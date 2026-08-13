@@ -77,6 +77,8 @@ Built a recording workflow that captures each participant's screen, game audio, 
 | [Taskbar Music Widget](https://github.com/zzl-hyun/TaskbarMusicWidget) | Controls playback information and per-app volume from the Windows taskbar | `.NET 8` `WPF` `NAudio` |
 | [Taskbar Speed Control](https://github.com/zzl-hyun/TaskbarSpeedControl) | Customizes the animation speed and frame rate of Windows taskbar auto-hide | `C#` `C++` `WinAPI` |
 | [macOS Preview Image Paste](https://github.com/zzl-hyun/MacOS-preview-image-paste) | Converts PNG data into Preview-compatible objects for pasting images into PDFs | `Swift` `Shell` `AnnotationKit` |
+| idontknowseourl | - | - |
+| Stack Overflow | - | - |
 
 ### Contribution Calendar
 
