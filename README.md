@@ -125,16 +125,19 @@ Built a recording workflow that captures each participant's screen, game audio, 
 ### [Purdue Academy of Global Engineering (PAGE)](https://engineering.purdue.edu/GEP/Global-Opportunities/PAGE)
 
 - [Purdue University](https://www.purdue.edu/) · West Lafayette, Indiana · Jun 2025 – Jul 2025
-- Completed a month-long residential `Big Data & AI` program, studying machine learning and optimization through lectures and hands-on coursework.
-- Collaborated on two team projects during the final week and presented both projects to instructors and fellow participants.
-- Experienced campus life at Purdue and explored Chicago and Indianapolis through weekend trips.
+- Selected for the Big Data Innovation Convergence University projects overseas research program and participated in a 4-week training and research program focusing on Machine Learning and Optimization at Purdue University, USA.
+- In the Machine Learning course, learned the principles and applications of various algorithms—including Regression, KNN, Decision Trees, SVM, and Neural Networks—using Python.
+- In the Optimization course, studied metaheuristic and optimization algorithms such as Simulated Annealing, Tabu Search, Genetic Algorithms, Particle Swarm Optimization, and Ant Colony Optimization.
+- Gained hands-on experience in analyzing datasets and applying algorithms to real-world problems through a team project in the fields of machine learning and optimization.
 
 ### [University MakeUs Challenge (UMC)](https://umc.makeus.in/)
 
 - University MakeUs Challenge (UMC) · Mar 2025 – Aug 2025
-- Selected as a participant in the 8th cohort of University MakeUs Challenge (UMC), Korea's largest nationwide university tech community for product managers, designers, and developers.
-- Completed the Senior Course in the Server (Node.js) track and applied the curriculum through hands-on assignments and team development.
-- Contributed to GameCast server development by building WebRTC signaling, recording features, AI highlight integration, and deployment environments.
+- Participated as a Node.js backend developer in the 8th cohort of UMC (University MakeUs Challenge), completing backend development training and team projects.
+- Learned Node.js-based RESTful API design and implementation, database integration, and collaborative development using Git/GitHub.
+- In the team project GameCast, took charge of API server development and voice analysis server integration, while establishing a service deployment environment using Docker, AWS EC2, and AWS ECR.
+- Automated build and deployment processes by configuring a GitHub Actions-based CI/CD pipeline, collaborating closely with PMs, designers, and frontend developers through the full lifecycle from service development to final release.
+
 
 ## Awards
 
